@@ -10,7 +10,7 @@
 
 
 
-### Play Online : [Color Guessing Game]( https://colorgame1011.web.app/)
+### Play Online : [Color Guessing Game]( https://colorgame1011.vercel.app/)
 <img src="image.PNG" width="100%" height="100%"/>
 
 
